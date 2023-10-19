@@ -1,3 +1,4 @@
+该仓库仅对`Nuxt 3 Minimal Starter`仓库的模板项目的克隆
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
